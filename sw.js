@@ -15,7 +15,7 @@
  * conoce como número menor y se cambia cuando se realizan
  * modificaciones menores.
  */
-const VERSION = "1.05"
+const VERSION = "1.06"
 
 /**
  * Nombre de la carpeta de caché.
@@ -29,6 +29,7 @@ const CACHE = "pwamd"
 const ARCHIVOS = [
  "ayuda.html",
  "archivos.html",
+ "camara.html",
  "favicon.ico",
  "index.html",
  "site.webmanifest",

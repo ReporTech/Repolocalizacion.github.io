@@ -18,6 +18,13 @@ backup
         Archivos
       </a>
 
+      <a ${resaltaSiEstasEn(["/camara.html", "", "/"])} href="camara.html">
+    <span class="material-symbols-outlined">
+photo_camera
+</span>
+        Cámara
+   </a>
+
    <a ${resaltaSiEstasEn(["/ayuda.html"])} href="ayuda.html">
     <span class="material-symbols-outlined">help</span>
     Ayuda
